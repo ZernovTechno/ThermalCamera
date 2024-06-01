@@ -21,8 +21,8 @@ For firmware you need:
 
 After flashing the controller, you can connect the MLX90640:
 
-1. Connect SDA MLX to IO12 ESP32
-2. SCL MLX with IO13 ESP32
+1. Connect SDA MLX to IO14 ESP32
+2. SCL MLX with IO15 ESP32
 3. VCC MLX with 3v3 ESP32
 4. G MLX with GND ESP32
 
